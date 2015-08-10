@@ -11,6 +11,6 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 
 ## Studenten
 
-1. naam
-	- email: email -- domein
-	- GitHub: URL naar github account
+1. Steven Leysen
+	- email: steven.leysen@gmail.com
+	- GitHub: https://github.com/stoicsteve
