@@ -16,3 +16,6 @@
 - HTML Snippets installatie: package control > install > "HTML Snippets" (dubbelklik)
     - uitproberen: schrijf "doctype" en druk daarna op de tab-toets
 
+## Git/hub
+- Interactieve git tutorial: https://try.github.io/levels/1/challenges/1
+
